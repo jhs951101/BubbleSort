@@ -2,8 +2,8 @@ package pkg;
 
 public class BubbleSort {
 	
-	public void main() {
-		int[] arr = {4, 3, 1, 5, 2};
+    public void main() {
+	int[] arr = {4, 3, 1, 5, 2};
         // arr: 정렬할 값들이 들어있는 배열
 
         for(int a=0; a<arr.length-1; a++){
